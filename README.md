@@ -4,10 +4,10 @@
   <br>
   <b>Puissance 4</b>
   <br>
-  <a href="https://github.com/axelriv62/fourinaline/blob/main/README.md">
+  <a href="https://github.com/axelriv62/four-in-a-line/blob/main/README.md">
     <img src="https://img.shields.io/badge/README-FR-blue">
   </a>
-  <a href="https://github.com/axelriv62/fourinaline/blob/main/README-EN.md">
+  <a href="https://github.com/axelriv62/four-in-a-line/blob/main/README-EN.md">
     <img src="https://img.shields.io/badge/README-EN-blue">
   </a>
 </h1>
